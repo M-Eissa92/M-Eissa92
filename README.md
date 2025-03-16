@@ -16,6 +16,11 @@ I am a **data scientist** with expertise in Python, SQL, and various machine lea
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge&logo=ai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-00BFFF?style=for-the-badge&logo=statsmodels&logoColor=white)
 
 ---
 
